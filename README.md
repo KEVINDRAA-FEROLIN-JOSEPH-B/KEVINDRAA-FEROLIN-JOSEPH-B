@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KEVINDRAA-FEROLIN-JOSEPH-B
-- 👀 I’m interested in WEB DESIGNING,WEB DEVELOPMENT,CODING
+- 👀 I’m interested in WEB DESIGNING,WEB DEVELOPMENT
 - 🌱 I’m currently learning REACT
 <!---
 KEVINDRAA-FEROLIN-JOSEPH-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
