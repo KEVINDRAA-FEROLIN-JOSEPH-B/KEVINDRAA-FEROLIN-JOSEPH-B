@@ -2,7 +2,7 @@
 - 👀 I’m interested in WEB DESIGNING,WEB DEVELOPMENT
 - 🌱 I’m currently learning REACT
 - Beginner 
-      -JAVA 
+     -JAVA 
      - DATA STRUCTURES 
      - MERN STACK 
 <!---
