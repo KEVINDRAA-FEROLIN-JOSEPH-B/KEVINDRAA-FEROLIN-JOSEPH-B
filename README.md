@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KEVINDRAA-FEROLIN-JOSEPH-B
 - 👀 I’m interested in WEB DESIGNING,WEB DEVELOPMENT
-- 🌱 I’m currently learning REACT
-- Beginner 
+- 🌱 I’m currently learning REACT 
      -JAVA 
      - DATA STRUCTURES 
      - MERN STACK 
